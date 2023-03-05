@@ -2,4 +2,5 @@
 
 **Нетология рулит!**
 
-![Что изучать](http://joxi.ru/ZrJg9kdUkyY9bm)
+![Что изучать](img/what2learn.jpg)
+
